@@ -1,0 +1,12 @@
+turhaaaa
+24/05/2015
+
+Psychiatrist:    Hello and welcome to my office. Tell me what can I help you with. What is on your mind?
+
+Patient:         testi
+
+Psychiatrist:    Keep opening up. I'm listening.
+
+Patient:         Goodbye
+
+Psychiatrist:    Goodbye, I hope to see you again. Take care!
